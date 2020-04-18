@@ -1,4 +1,5 @@
 # uni-app-component-HansTabbar
+#### uniapp小程序自定义tabbar组件
 ## 使用方法
 ### 在script中引入组件
 ```
