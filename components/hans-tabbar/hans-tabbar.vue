@@ -26,7 +26,6 @@ export default {
 	},
 	methods: {
 		tabChange(index) {
-			// var index = this.$refs.tabitem.dataset.index;
 			if (index === this.current) {
 				return;
 			}
